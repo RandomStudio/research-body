@@ -1,0 +1,23 @@
+{
+  "name": "body",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandomStudio/research-body.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RandomStudio/research-body/issues"
+  },
+  "homepage": "https://github.com/RandomStudio/research-body#readme",
+  "dependencies": {
+    "markdown-to-html": "0.0.13",
+    "serve": "^11.0.2"
+  }
+}
