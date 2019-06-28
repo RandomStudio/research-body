@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx markdown-to-html body.md > index.htm",
+    "build": "npx markdown-to-html body.md > index.html",
     "serve": "npx serve"
   },
   "repository": {
